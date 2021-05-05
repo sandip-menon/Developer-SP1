@@ -1,0 +1,6 @@
+<!-- auraComponent.cmp file -->
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId,lightning:actionOverride" access="global" >
+
+    <lightning:card title="Aura Hello World" iconName="custom:custom30" />
+    <c:ca2 name="Earthling" />
+</aura:component>

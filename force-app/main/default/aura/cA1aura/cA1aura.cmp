@@ -1,0 +1,6 @@
+<!-- auraComponent.cmp file -->
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId,lightning:actionOverride" access="global" >
+
+    <lightning:card title="Create Account" iconName="custom:custom30" />
+    <c:cA1 name="CA1 Name" />
+</aura:component>
